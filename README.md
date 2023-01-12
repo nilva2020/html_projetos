@@ -1,8 +1,8 @@
 ![html](imagem/html-5.png)
 
-# Este Repositório tem o objetivo de demonstrar as páginas web desenvolvidas com tag's HTML e HTML5.
+# Este Repositório tem o objetivo de expor os resultados dos estudos de HTML e HTML5.
 
-Nestes projetos não serão inclusos o CSS, as páginas não terão nenhum tipo
+🚨🚨🚨Nestes projetos não serão inclusos o CSS, as páginas não terão nenhum tipo
 de estilização.
 
 O foco do estudo é demonstrar o que cada tag's proporciona na estruturação da página web e cada projeto tem um objetivo, pode consultar atraves dos readme.md.
@@ -10,12 +10,14 @@ O foco do estudo é demonstrar o que cada tag's proporciona na estruturação da
 ---
 ## Estrutura dos projetos:
 
-Páginas web estáticas:
+🪧 Páginas web estáticas:  
+
     * LOJA VIRTUAL;
     * ILHA BELA;
     * RESULTADOS ALUNOS
 
-Páginas Web Dinâmicas:
+🪧 Páginas Web Dinâmicas:  
+
     * Em construções, aguardem!!!!
 
 Boas Práticas:
